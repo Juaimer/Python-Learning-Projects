@@ -4,6 +4,7 @@ def arithmetic_arranger(problems, show_answers=False):
     third_row = []
     fourth_row = []
     solution = ''
+    print("final Project")
     if len(problems) > 5:
         return 'Error: Too many problems.'
 
